@@ -26,6 +26,7 @@ I will use the PCI-E to M.2 at Waveshare https://www.waveshare.com/pcie-to-m.2-a
 
 ![PCIe-TO-M.2-A](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/PCIe-TO-M.2-A-details-11.jpeg)
 
+## Sensor Interface
 The ARPI600
 
 ![ARPI600](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/ARPI600-intro.jpeg)

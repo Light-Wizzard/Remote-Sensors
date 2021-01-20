@@ -18,9 +18,8 @@ This show the PI 4 with 4 GB Ram and a 32 GB eMMC Flash https://www.waveshare.co
 
 ![Compute-Module-4-POE-Board](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/Compute-Module-4-POE-Board-details-size.jpeg)
 
-
+## SSD 
 I will use the PCI-E to M.2 at Waveshare https://www.waveshare.com/pcie-to-m.2-a.htm 
-
 
 ![PCIE](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/pcie-to-m.2-a-5.jpeg)
 
@@ -35,7 +34,7 @@ The Board for the ARPI600
 
 ![ARPI600-size](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/ARPI600-size.jpeg)
 
-
+## Sensors
 I will use various sensors like this Sensor Hat
 
 ![sense-hat](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sense-hat-b-9.jpeg)

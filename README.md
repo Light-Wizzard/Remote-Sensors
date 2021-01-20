@@ -4,12 +4,12 @@ Remote Sensors are devices that can relay information from a remote location, an
 ## Lessions
 I plan on adding all my Lession into the [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons)
 
-1. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Overview)
-2. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Motherboard)
-3. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-SSD)
-4. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Sensor-Interface)
-5. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Sensors)
-6. [Wiki](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Usage)
+1. [Overview](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Overview)
+2. [Motherboard](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Motherboard)
+3. [SSD](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-SSD)
+4. [Sensor-Interface](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Sensor-Interface)
+5. [Sensors](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Sensors)
+6. [Usage](https://github.com/Light-Wizzard/Remote-Sensors/wiki/Lessons-Usage)
 
 ## Motherboard
 The Motherboards I will use are based on the Raspberry Pi or Nvidia, I will have separate Wiki pages for each project.

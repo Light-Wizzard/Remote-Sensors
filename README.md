@@ -56,8 +56,10 @@ I will use various sensors like these Sensors
 
 ![sensors-pack](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sensors-pack_l_5.jpeg)
 
+## Cellular
+I will use the Global SIM-7600G-H for 4G / 3G / 2G / GSM / GPRS / GNSS HAT for Raspberry Pi, LTE CAT4, the Global Version
 
-![]()
+![sim7600g-h-4g-hat](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sim7600g-h-4g-hat-7_4.jpeg)
 
 ![]()
 

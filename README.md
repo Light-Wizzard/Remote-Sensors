@@ -7,6 +7,7 @@ The Motherboards I will use are based on the Raspberry Pi or Nvidia, I will have
 The first board I will talk about is the Compute Module 4 PoE board, PoE is Power Over Internet cable, and we will be using that to talk to our Remote Sensors.
 
 ![compute-module-4-poe-board](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/compute-module-4-poe-board-5.jpeg)
+
 This show the PI 4 with 4 GB Ram and a 32 GB eMMC Flash https://www.waveshare.com/compute-module-4.htm?sku=18795
 
 ![Compute-Module-4-POE-Board](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/Compute-Module-4-POE-Board-details-1.jpeg)
@@ -36,9 +37,11 @@ The Board for the ARPI600
 
 
 I will use various sensors like this Sensor Hat
+
 ![sense-hat](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sense-hat-b-9.jpeg)
 
 I will use various sensors like these Sensors
+
 ![sensors-pack](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sensors-pack_l_5.jpeg)
 
 ![]()

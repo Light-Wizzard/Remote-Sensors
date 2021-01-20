@@ -50,11 +50,12 @@ I will use various sensors like this Sensor Hat
 
 ![sense-hat](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sense-hat-b-9.jpeg)
 
+![arpi600](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/arpi600-12.jpeg)
+
 I will use various sensors like these Sensors
 
 ![sensors-pack](https://github.com/Light-Wizzard/Remote-Sensors/blob/main/images/sensors-pack_l_5.jpeg)
 
-![]()
 
 ![]()
 
